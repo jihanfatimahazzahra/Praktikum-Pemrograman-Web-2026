@@ -178,7 +178,7 @@ require_once __DIR__ . '/includes/header.php';
                         placeholder="Contoh: Ahmad Fauzi" 
                         required 
                         minlength="3">
-                    <span class="form-help">* Minimal 3 karakter.</span>
+                    <span class="form-help">* Minpmal 3 karakter.</span>
                 </div>
 
                 <div class="form-group">
